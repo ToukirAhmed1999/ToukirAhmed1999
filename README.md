@@ -1,36 +1,36 @@
-### Hi there 👋, This is Toukir Ahmed
-#### Web developer & Weaver: Blending Artistry with Code to Craft Digital Masterpieces"
-![Web developer & Weaver: Blending Artistry with Code to Craft Digital Masterpieces"](https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-1/393236736_2300965033626609_5073359801836614003_n.jpg?stp=dst-jpg_s320x320&_nc_cat=110&ccb=1-7&_nc_sid=5740b7&_nc_eui2=AeFEt_NxMeIMZY8IGAfZ5c-TdGCoWsQWQGx0YKhaxBZAbHiEJug039IGmHYq393DgYc-5ORexfz9tmYY2QqSBKux&_nc_ohc=2OBpE4fxGtIAX_4xfeP&_nc_ht=scontent.fdac146-1.fna&oh=00_AfA1eeOcS_feUplD0fEitnNdULisAbDd0TSotMDxkyifXA&oe=65D17ACF)
+<h1 align="center">Hi 👋, I'm Toukir Ahmed</h1>
+<h3 align="center">"Web developer & Weaver: Blending Artistry with Code to Craft Digital Masterpieces"</h3>
 
-I'm Toukir, a web developer passionate about crafting digital experiences. With expertise in front-end and back-end development, I specialize in HTML,CSS,C,C++,JAVA,JAVASCRIPT,PHP,MY SQL,BOOTSTRAP,PYTHON.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=toukirahmed1999&label=Profile%20views&color=0e75b6&style=flat" alt="toukirahmed1999" /> </p>
 
-💡 I love challenges and thrive on solving problems creatively. Always learning and staying updated with the latest tech trends, I'm dedicated to delivering exceptional solutions.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toukirahmed1999" alt="toukirahmed1999" /></a> </p>
 
-🌟 Let's connect and collaborate! Whether it's a project idea or just geeking out over tech, I'm all ears. Reach out, and let's turn ideas into reality!
+- 🌱 I’m currently learning **Javascript,python**
 
-Skills:  REACT / JS / HTML / CSS
+- 👨‍💻 All of my projects are available at [https://github.com/ToukirAhmed1999](https://github.com/ToukirAhmed1999)
 
-- 🔭 I’m currently working on PSTU 
-- 🌱 I’m currently learning PYTHON,JAVASCRIPT 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about HTML,CSS,C,C++,JAVA,JAVASCRIPT,PHP,MY SQL,BOOTSTRAP,PYTHON. 
-- 📫 How to reach me: ahmed18@cse.pstu.ac.bd 
-- ⚡ Fun fact: i am trying 
+- 💬 Ask me about **HTML,CSS,JS,MY SQl**
 
+- 📫 How to reach me **ahmed18@cse.pstu.ac.bd**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ToukirAhmed1999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/toukir-ahmed-102749275//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/toukirahmed.toukirahmed.927?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/www.toukirrr.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23400763/md-toukir-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/toukir.jibon22@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://toukirahmed1999.github.io/Toukir-s-portfolio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/toukir_ahmed18)  
+- ⚡ Fun fact **i think i am helpful**
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/toukir_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toukir_ahmed" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/toukirahmed.toukirahmed.927?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/toukirahmed.toukirahmed.927?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/toukir_ahmed18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/toukir_ahmed18" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/ToukirAhmed1999)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ToukirAhmed1999)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ToukirAhmed1999"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ToukirAhmed1999" /></a></p><br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ToukirAhmed1999&show_icons=true&count_private=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toukirahmed1999&show_icons=true&locale=en&layout=compact" alt="toukirahmed1999" /></p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/ToukirAhmed1999/contributions?format=svg&private=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toukirahmed1999&show_icons=true&locale=en" alt="toukirahmed1999" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/ToukirAhmed1999)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/ToukirAhmed1999)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toukirahmed1999&" alt="toukirahmed1999" /></p>
 
